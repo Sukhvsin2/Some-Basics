@@ -1,16 +1,15 @@
 {
-  "main.css": "/Some-Basics/static/css/main.203a71ae.chunk.css",
-  "main.js": "/Some-Basics/static/js/main.c0fd6114.chunk.js",
-  "main.js.map": "/Some-Basics/static/js/main.c0fd6114.chunk.js.map",
-  "runtime~main.js": "/Some-Basics/static/js/runtime~main.54286e1e.js",
-  "runtime~main.js.map": "/Some-Basics/static/js/runtime~main.54286e1e.js.map",
-  "static/js/2.49cb00a6.chunk.js": "/Some-Basics/static/js/2.49cb00a6.chunk.js",
-  "static/js/2.49cb00a6.chunk.js.map": "/Some-Basics/static/js/2.49cb00a6.chunk.js.map",
-  "static/js/3.d62f7fe7.chunk.js": "/Some-Basics/static/js/3.d62f7fe7.chunk.js",
-  "static/js/3.d62f7fe7.chunk.js.map": "/Some-Basics/static/js/3.d62f7fe7.chunk.js.map",
+  "main.css": "/Some-Basics/static/css/main.bdd12933.chunk.css",
+  "main.js": "/Some-Basics/static/js/main.25b36402.chunk.js",
+  "main.js.map": "/Some-Basics/static/js/main.25b36402.chunk.js.map",
+  "runtime~main.js": "/Some-Basics/static/js/runtime~main.e9cc9aae.js",
+  "runtime~main.js.map": "/Some-Basics/static/js/runtime~main.e9cc9aae.js.map",
+  "static/js/2.a9d2c23b.chunk.js": "/Some-Basics/static/js/2.a9d2c23b.chunk.js",
+  "static/js/2.a9d2c23b.chunk.js.map": "/Some-Basics/static/js/2.a9d2c23b.chunk.js.map",
+  "static/js/3.d7f7bd74.chunk.js": "/Some-Basics/static/js/3.d7f7bd74.chunk.js",
+  "static/js/3.d7f7bd74.chunk.js.map": "/Some-Basics/static/js/3.d7f7bd74.chunk.js.map",
   "index.html": "/Some-Basics/index.html",
-  "precache-manifest.5e5787e82918b7fee3c8776e52f71d66.js": "/Some-Basics/precache-manifest.5e5787e82918b7fee3c8776e52f71d66.js",
+  "precache-manifest.981f0df0c433eb8e97bfbd29ef606f45.js": "/Some-Basics/precache-manifest.981f0df0c433eb8e97bfbd29ef606f45.js",
   "service-worker.js": "/Some-Basics/service-worker.js",
-  "static/css/main.203a71ae.chunk.css.map": "/Some-Basics/static/css/main.203a71ae.chunk.css.map",
-  "static/media/logo.svg": "/Some-Basics/static/media/logo.06e73328.svg"
+  "static/css/main.bdd12933.chunk.css.map": "/Some-Basics/static/css/main.bdd12933.chunk.css.map"
 }

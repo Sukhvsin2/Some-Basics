@@ -1,38 +1,54 @@
-.App {
+.title{
+  text-align: center;
+}
+th{
+  text-align: left;
+  font-size: x-large;
+}
+td{
+  padding: 10px 0px;
+}
+
+.books{
+  padding: 10px;
+}
+
+.searchBar{
+  text-align: center;
+}
+.bar{
+  width: 60%;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: large;
+}
+
+.read{
+  font-size: small;
+  color: blueviolet;
+  cursor: pointer;
+}
+
+.showCase{
+  /* display: flex;
+  justify-content: space-around; */
+  padding: 15px;
+  align-items: center;
+}
+.heading{
+  font-size: larger;
+  text-align: center;
+}
+.subTitle{
+  font-size: small;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bigImg{
+  text-align: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.desc{
+  margin: 10px auto;
+  text-align: center;
 }

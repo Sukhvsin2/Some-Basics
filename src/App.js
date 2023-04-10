@@ -1,5 +1,11 @@
 import React, { useEffect, useState }  from 'react';
 import './App.css';
+import '@fontsource/roboto/300.css';
+import '@fontsource/roboto/400.css';
+import '@fontsource/roboto/500.css';
+import '@fontsource/roboto/700.css';
+import { Button } from '@mui/material';
+
 
 function App() {
   const [books, setBooks] = useState([])
@@ -79,7 +85,7 @@ function App() {
                   <div className='desc'>{book.description}</div>
                 </div>
               </div>
-              <button onClick={() => setOpen(false)}>Close</button>
+              <Button variant='outlined' onClick={() => setOpen(false)}>Close</Button>
             </div>
           </div>
         }
